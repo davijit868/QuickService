@@ -1,0 +1,8 @@
+Executable creation from any python script
+
+1. pip install pyinstaller 
+2. Go to the directory where python script exists
+3. Open powershell in the same directory
+4. type 'pyinstaller -F --windowed Script.py'
+5. type -F if you want a single file
+6. If you don't want your console write --windowed
